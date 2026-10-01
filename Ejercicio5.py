@@ -50,3 +50,5 @@ print("Producto 1 actualizado",prod1)
 prod2.dias_para_expirar()
 prod3.dias_para_expirar()
 print("Stock de prod3 tras comprobar vencimiento:",prod3.stock)
+
+#Envío final

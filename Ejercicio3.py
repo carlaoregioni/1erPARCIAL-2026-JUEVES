@@ -5,3 +5,5 @@ def total_interrupciones(a:int,b:int)->int:
 
 #ejemplo: 2 interrupciones/hora cada 3 horas -> total 6 interrupciones
 print(total_interrupciones(2,3))
+
+#Envío final
